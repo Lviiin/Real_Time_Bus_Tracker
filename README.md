@@ -1,5 +1,5 @@
 # Real Time Bus Tracker
-<img src="https://github.com/Lviiin/lviiin.github.io/tree/main/assets/img/map.JPG" width="300" />
+<img src="map.JPG" width="300" />
 This project was assigned via MIT xPROs Full Stack Developer Professional Certification. It shows the bus stops between MIT to Harvard. When you click the button, the tracker moves along the bus route.
 
 Viewing This Project
